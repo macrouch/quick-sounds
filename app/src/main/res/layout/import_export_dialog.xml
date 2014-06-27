@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/RelativeLayout1"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical" >
+
+  <TextView
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignTop="@+id/buttonExport"
+    android:text="@string/exportText"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+  <TextView
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignTop="@+id/buttonImport"
+    android:text="@string/importText"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+  <Button
+    android:id="@+id/buttonExport"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:text="@string/exportButton" />
+
+  <Button
+    android:id="@+id/buttonImport"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_below="@+id/buttonExport"
+    android:layout_gravity="right"
+    android:text="@string/importButton" />
+
+
+
+</RelativeLayout>
