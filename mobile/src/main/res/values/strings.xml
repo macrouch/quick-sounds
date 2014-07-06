@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Sounds</string>
+    <string name="title_activity_quick_sounds">QuickSoundsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Quick Sounds!\nTo setup a sound, long press a button.\nTo play a sound, press the button.\nTo stop a sound, press the button again.</string>
+    <string name="exitOption">Exit</string>
+    <string name="helpOption">Help</string>
+    <string name="importExportOption">Import/Export</string>
+    <string name="buttonDialogTitle">Choose button sound</string>
+    <string name="loopSound">Loop sound</string>
+    <string name="selectSound">Select sound</string>
+    <string name="finishButton">Finish</string>
+    <string name="exportText">Export to sdcard</string>
+    <string name="importText">Import from sdcard</string>
+    <string name="exportButton">Export</string>
+    <string name="importButton">Import</string>
+    <string name="importExportDialogTitle">Import/Export settings</string>
+    <string name="setButtonText">Set button text:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_watch_listener">WatchListenerActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/matthew/AndroidstudioProjects/QuickSounds/mobile/build/intermediates/pre-dexed/debug/classes-d05bd10ae598114c3351949080cf511045e21b84.jar"
+        jar="/Users/matthew/AndroidstudioProjects/QuickSounds/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/mobile/build/intermediates/pre-dexed/debug/classes-9ccafbc11364b43d20274a403fb30303c09796b2.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/wear/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-8e2c444cd053299519c7931d376d551cdb588c64.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Users/matthew/AndroidstudioProjects/QuickSounds/mobile/build/intermediates/pre-dexed/debug/classes-c5be4c2f531a86205ef578618c9bd77dd4bf52a1.jar"
+        jar="/Users/matthew/AndroidstudioProjects/QuickSounds/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/matthew/AndroidstudioProjects/QuickSounds/mobile/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/mobile/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-e234aab14ac49f76cacaf96561c6f72612139de8.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/wear/build/intermediates/pre-dexed/debug/classes-5a3bd427fbec45b0a01a809fa06e122f97c5d2a2.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.google.android.support/wearable/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/mobile/build/intermediates/pre-dexed/debug/classes-66b1878a978a7d9458aeaeb26b06d80d03cbde50.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/Users/matthew/AndroidstudioProjects/QuickSounds/mobile/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-688dbf39fb498a43a27615aef23c50f10accaea4.jar"
+        jar="/Users/matthew/AndroidstudioProjects/QuickSounds/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/matthew/AndroidstudioProjects/QuickSounds/mobile/build/intermediates/pre-dexed/debug/classes-82c2318f51379f1613099eec04caa46002152cd6.jar"
+        jar="/Users/matthew/AndroidstudioProjects/QuickSounds/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/wear/build/intermediates/pre-dexed/debug/classes-376cdc81b9742b002a9acac711ff61ca521584cf.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Users/matthew/workspace/quick-sounds/mobile/build/intermediates/pre-dexed/debug/classes-2a20f036d0a8c33003910f50e59e0f3b1066bfb8.jar"
+        jar="/Users/matthew/workspace/quick-sounds/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
